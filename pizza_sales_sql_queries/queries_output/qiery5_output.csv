@@ -1,0 +1,3 @@
+"ROUND(SUM(order_details.quantity * pizzas.price),
+            2)"
+817860.05
